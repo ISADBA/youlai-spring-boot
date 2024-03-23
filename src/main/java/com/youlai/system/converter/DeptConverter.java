@@ -1,8 +1,8 @@
 package com.youlai.system.converter;
 
-import com.youlai.system.model.entity.SysDept;
-import com.youlai.system.model.form.DeptForm;
-import com.youlai.system.model.vo.DeptVO;
+import com.youlai.system.modules.manager.model.entity.SysDept;
+import com.youlai.system.modules.manager.model.form.DeptForm;
+import com.youlai.system.modules.manager.model.vo.DeptVO;
 import org.mapstruct.Mapper;
 
 /**

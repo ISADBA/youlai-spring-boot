@@ -2,9 +2,9 @@ package com.youlai.system.converter;
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.youlai.system.common.model.Option;
-import com.youlai.system.model.entity.SysRole;
-import com.youlai.system.model.form.RoleForm;
-import com.youlai.system.model.vo.RolePageVO;
+import com.youlai.system.modules.manager.model.entity.SysRole;
+import com.youlai.system.modules.manager.model.form.RoleForm;
+import com.youlai.system.modules.manager.model.vo.RolePageVO;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.Mappings;

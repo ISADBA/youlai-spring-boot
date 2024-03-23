@@ -1,8 +1,8 @@
 package com.youlai.system.converter;
 
-import com.youlai.system.model.entity.SysMenu;
-import com.youlai.system.model.form.MenuForm;
-import com.youlai.system.model.vo.MenuVO;
+import com.youlai.system.modules.manager.model.entity.SysMenu;
+import com.youlai.system.modules.manager.model.form.MenuForm;
+import com.youlai.system.modules.manager.model.vo.MenuVO;
 import org.mapstruct.Mapper;
 
 /**

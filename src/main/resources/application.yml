@@ -1,5 +1,5 @@
 spring:
   application:
-    name: youlai-boot
+    name: action-tide-boot
   profiles:
     active: dev

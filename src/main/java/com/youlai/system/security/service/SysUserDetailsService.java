@@ -1,8 +1,8 @@
 package com.youlai.system.security.service;
 
 import com.youlai.system.security.model.SysUserDetails;
-import com.youlai.system.model.dto.UserAuthInfo;
-import com.youlai.system.service.SysUserService;
+import com.youlai.system.modules.manager.model.dto.UserAuthInfo;
+import com.youlai.system.modules.manager.service.SysUserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

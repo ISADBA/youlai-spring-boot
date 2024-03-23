@@ -2,7 +2,7 @@ package com.youlai.system.security.model;
 
 import cn.hutool.core.collection.CollectionUtil;
 import cn.hutool.core.util.ObjectUtil;
-import com.youlai.system.model.dto.UserAuthInfo;
+import com.youlai.system.modules.manager.model.dto.UserAuthInfo;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;

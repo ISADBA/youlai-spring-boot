@@ -1,13 +1,13 @@
 package com.youlai.system.converter;
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.youlai.system.model.bo.UserBO;
-import com.youlai.system.model.entity.SysUser;
-import com.youlai.system.model.form.UserForm;
-import com.youlai.system.model.bo.UserFormBO;
-import com.youlai.system.model.vo.UserImportVO;
-import com.youlai.system.model.vo.UserInfoVO;
-import com.youlai.system.model.vo.UserPageVO;
+import com.youlai.system.modules.manager.model.bo.UserBO;
+import com.youlai.system.modules.manager.model.entity.SysUser;
+import com.youlai.system.modules.manager.model.form.UserForm;
+import com.youlai.system.modules.manager.model.bo.UserFormBO;
+import com.youlai.system.modules.manager.model.vo.UserImportVO;
+import com.youlai.system.modules.manager.model.vo.UserInfoVO;
+import com.youlai.system.modules.manager.model.vo.UserPageVO;
 import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

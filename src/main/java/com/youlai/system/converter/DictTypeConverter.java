@@ -1,9 +1,9 @@
 package com.youlai.system.converter;
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.youlai.system.model.entity.SysDictType;
-import com.youlai.system.model.form.DictTypeForm;
-import com.youlai.system.model.vo.DictTypePageVO;
+import com.youlai.system.modules.manager.model.entity.SysDictType;
+import com.youlai.system.modules.manager.model.form.DictTypeForm;
+import com.youlai.system.modules.manager.model.vo.DictTypePageVO;
 import org.mapstruct.Mapper;
 
 /**

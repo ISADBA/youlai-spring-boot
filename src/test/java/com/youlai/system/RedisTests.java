@@ -1,6 +1,6 @@
 package com.youlai.system;
 
-import com.youlai.system.model.entity.SysUser;
+import com.youlai.system.modules.manager.model.entity.SysUser;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
